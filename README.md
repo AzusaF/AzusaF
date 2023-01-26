@@ -19,10 +19,10 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzusaF&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AzusaF)](https://github.com/AzusaF/github-readme-stats)]
 
 <h3> 🤝🏻 Stay in touch on LinkedIn </h3>
 
-<p align="center">
+<p>
 &nbsp; <a href="https://www.linkedin.com/in/azusafukuda/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
