@@ -19,8 +19,7 @@
 
 <br>
 
-![AzusaF's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzusaF&count_private=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzusaF&count_private=true&layout=compact)]
 <h3> 🤝🏻 Stay in touch on LinkedIn </h3>
 
 <p>
