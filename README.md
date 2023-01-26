@@ -19,9 +19,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzusaF&count_private=true&layout=compact)]
 <h3> 🤝🏻 Stay in touch on LinkedIn </h3>
-
 <p>
-&nbsp; <a href="https://www.linkedin.com/in/azusafukuda/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/95828247/214724517-dca6921b-0cb5-4309-866c-28bb8605a297.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/azusafukuda/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/95828247/214726641-973de443-4e37-4a77-8e35-3d5ef8038d04.png" width="50" /></a>
 </p>
