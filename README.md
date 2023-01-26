@@ -15,7 +15,7 @@
 - 🛢 &nbsp; Oracle SQL Developer | PL/SQL | MongoDB | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Git | GitHub 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzusaF&theme=submarine-flowers&border_radius=5&fire=DD701B)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzusaF&theme=vision-friendly-dark&border_radius=5&fire=DD701B)
 
 <br>
 
