@@ -4,6 +4,7 @@
 <h3> 🧑‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and love to learn new things. 
+- 🖥️ &nbsp; Currently actively looking for a job.
 - 🎓 &nbsp; Studying [Computer Programming](https://www.senecacollege.ca/programs/fulltime/CPP.html) at Seneca College. 
 - 😴 &nbsp; I try to sleep before 10pm so I can stay focused. 
 - 🧑‍🍳 &nbsp; Passionate cook when I have time. 
