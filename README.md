@@ -17,6 +17,7 @@
 - 🔧 &nbsp; Visual Studio code | Git | GitHub 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzusaF&theme=vision-friendly-dark&border_radius=5&fire=DD701B)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzusaF&layout=compact)](https://github.com/AzusaF/github-readme-stats)
 
 <h3> 🤝🏻 Stay in touch on LinkedIn </h3>
 <p>
