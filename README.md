@@ -1,4 +1,3 @@
-# Welcome! 
 <h1> Hi there! I'm Azusa 👋 </h1>
 <h2> A Passionate Software Developer From Japan 🇯🇵</h2>
 <h3> 🧑‍💻 About Me </h3>
