@@ -11,7 +11,7 @@
 <h3>🛠 My skillset</h3>
 
 - 💻 &nbsp; Python | C++ | JavaScrypt 
-- 🌐 &nbsp; Full-Stack | React | Node.js | Express | JavaScript | Bootstrap | Handlebars | HTML5 | CSS  
+- 🌐 &nbsp; Full-Stack | Node.js | Express | JavaScript | React | Bootstrap | Handlebars | HTML5 | CSS  
 - 🛢 &nbsp; Oracle SQL Developer | PL/SQL | MongoDB | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Git | GitHub | Mac OS
 
