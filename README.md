@@ -1,18 +1,19 @@
 <h1> Hi there! I'm Azusa 👋 </h1>
-<h2> A Passionate Software Developer From Japan 🇯🇵</h2>
+<h2> A Passionate Fullstack Software Developer From Japan 🇯🇵</h2>
+
 <h3> 🧑‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and love to learn new things. 
 - 🖥️ &nbsp; Currently actively looking for a job.
-- 🎓 &nbsp; Studying [Computer Programming](https://www.senecacollege.ca/programs/fulltime/CPP.html) at Seneca College. 
-- 😴 &nbsp; Try to sleep before 10pm so I can stay focused. 
+- 🎓 &nbsp; Studied [Computer Programming](https://www.senecacollege.ca/programs/fulltime/CPP.html) at Seneca College. 
+- 😴 &nbsp; Try to sleep before 10 pm so I can stay focused. 
 - 🧑‍🍳 &nbsp; Passionate cook when I have time. 
 
 <h3>🛠 My skillset</h3>
 
-- 💻 &nbsp; Python | C++ | JavaScrypt 
-- 🌐 &nbsp; Full-Stack | Node.js | Express | JavaScript | React | Bootstrap | Handlebars | HTML5 | CSS  
-- 🛢 &nbsp; Oracle SQL Developer | PL/SQL | MongoDB | PostgreSQL 
+- 💻 &nbsp; OOP Programming: Python, Advanced C/C++ 
+- 🌐 &nbsp; JavaScript | Node.js | Express | Next.js | React | JWT | Jotai | Bootstrap | Handlebars | HTML5 | CSS  
+- 🛢 &nbsp; Advanced SQL (subqueries, set operators, joins) | Oracle database (PL/SQL: stored procedures, cursors, triggers, functions) | MongoDB | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Git | GitHub | Mac OS
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzusaF&theme=vision-friendly-dark&border_radius=5&fire=DD701B)
