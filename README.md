@@ -1,5 +1,5 @@
 <h1> Hi there! I'm Azusa 👋 </h1>
-<h2> A Passionate Fullstack Software Developer From Japan 🇯🇵</h2>
+<h2> A Passionate Full-Stack Software Developer From Japan 🇯🇵</h2>
 
 <h3> 🧑‍💻 About Me </h3>
 
