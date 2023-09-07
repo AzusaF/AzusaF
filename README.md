@@ -11,7 +11,7 @@
 
 <h3>🛠 My skillset</h3>
 
-- 💻 &nbsp; OOP Programming: Python, Advanced C/C++ 
+- 💻 &nbsp; OOP Programming: Python, C/C++ 
 - 🌐 &nbsp; JavaScript | Node.js | Express | Next.js | React | JWT | Jotai | Bootstrap | Handlebars | HTML5 | CSS  
 - 🛢 &nbsp; Advanced SQL (subqueries, set operators, joins) | Oracle database (PL/SQL: stored procedures, cursors, triggers, functions) | MongoDB | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Git | GitHub | Mac OS
