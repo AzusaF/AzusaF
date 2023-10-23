@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and love to learn new things. 
 - 🖥️ &nbsp; Currently actively looking for a job.
-- 🎓 &nbsp; Studied [Computer Programming](https://www.senecacollege.ca/programs/fulltime/CPP.html) at Seneca College. 
+- 🎓 &nbsp; Completed [Computer Programming](https://www.senecacollege.ca/programs/fulltime/CPP.html) at Seneca College. 
 - 😴 &nbsp; Try to sleep before 10 pm so I can stay focused. 
 - 🧑‍🍳 &nbsp; Passionate cook when I have time. 
 
