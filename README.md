@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Programming Language: Python, C/C++ 
 - 🌐 &nbsp; JavaScript | Node.js | Express | Next.js | React | JWT | Jotai | Bootstrap | Handlebars | HTML5 | CSS  
-- 🛢 &nbsp; Advanced SQL (subqueries, set operators, joins) | Oracle database (PL/SQL: stored procedures, cursors, triggers, functions) | MongoDB | PostgreSQL 
+- 🛢 &nbsp; SQL (subqueries, set operators, joins) | Oracle database (PL/SQL: stored procedures, cursors, triggers, functions) | MongoDB | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Git | GitHub | Mac OS
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzusaF&theme=vision-friendly-dark&border_radius=5&fire=DD701B)
